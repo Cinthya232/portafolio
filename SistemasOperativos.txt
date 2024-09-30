@@ -1,0 +1,26 @@
+# Sistemas Operativos
+## Privativo
+### iOS
+####  iOS 14.8
+####   iOS 15.0
+####  iOS 15.1
+### Windows
+####  Windows 10
+####  Windows 11
+####   Windows 11 22H2
+### Chrome
+####  Chrome 103.0.5060.114
+####   Chrome 104.0.5112.79
+####   Chrome 105.0.5195.52
+## Libre
+### Linux
+### Fedora
+### Fire Fox
+### Ubuntu
+### Debian
+### FreeDOS
+### ReactOS
+### ArcaOS
+### Inferno
+### Illumos
+## Otro
